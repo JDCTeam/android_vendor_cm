@@ -199,6 +199,9 @@
     </sensitivePN>
     <!--Bulgaria-->
     <sensitivePN network="284">
+        <item>029817686</item>
+        <item>080018676</item>
+        <item>080020100</item>
         <item>116111</item>
     </sensitivePN>
     <!--Turkey-->
@@ -274,8 +277,12 @@
     <!--USA-->
     <sensitivePN network="310,311,312,313,316">
         <item>18004224453</item>
+        <item>18006214673</item>
         <item>18006564673</item>
         <item>18007997233</item>
+        <item>18662231111</item>
+        <item>18663852699</item>
+        <item>186668694357</item>
     </sensitivePN>
     <!--India-->
     <sensitivePN network="404,405">
